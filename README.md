@@ -1,4 +1,4 @@
 # SIMPLE-CRUD-MYSQL-STMT
-ABM usando prepared statements en PHP y Mysqli
+CRUD using prepared statements on PHP & Mysqli
 ![](Images/sh1.jpg) 
 ![](Images/sh2.jpg) 
